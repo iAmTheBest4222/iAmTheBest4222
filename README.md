@@ -1,5 +1,5 @@
-[![MasterHead](https://www.deviantart.com/pixeljeff/art/Coding-990517671)]()
-<h1 align="center">Hi 👋, I'm DIVYANSHU MISHRA</h1>
+<div align="center">
+<h1 align="center">Hi 👋, I'm DIVYANSHU MISHRA<img src="https://64.media.tumblr.com/2daa10a683da64c3008f888b41e02402/1552c74e4f9174a7-f9/s1280x1920/e620a7e2d4a29ef4a654e204264ba71c6e2d1c28.gifv" align="center" width="500" /></h1>
 <h3 align="center">A passionate Data Analytic Eng. from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamthebest4222" alt="iamthebest4222" /></a> </p>
